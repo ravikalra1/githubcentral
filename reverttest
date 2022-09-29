@@ -1,3 +1,7 @@
 Hi
 this is testing code for revert
+<<<<<<< HEAD
 final code to test revert
+=======
+2nd commit testing for revert
+>>>>>>> parent of 1bbc79c (final code to test revert)
